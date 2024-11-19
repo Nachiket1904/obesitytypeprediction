@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+pytz
+scipy
+joblib
+scikit-learn
+joblib
+threadpoolctl 
+dill
+pyarrow
+flask
